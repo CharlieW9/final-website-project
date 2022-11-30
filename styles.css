@@ -1,3 +1,60 @@
 body{
-    background-color: chartreuse;
+    background-color: black;
 }
+
+ul{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-size: 30px;
+    list-style-type: none;
+    padding: 50px;
+   
+}
+
+li{
+    margin: 30px 10px;
+}
+
+.container-navigation{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+ 
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+a:hover{
+    color: #f58b1b;
+    transition: 0.2s;
+
+}
+
+.push{
+    margin-left: auto;
+}
+
+P{
+    color: antiquewhite;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 340PX;
+    line-height: -0;
+}
+
+    
+.special{
+    font-size: 30px;
+    color: antiquewhite;
+    line-height: 0.01;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
