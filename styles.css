@@ -46,6 +46,7 @@ P{
     line-height: -0;
 }
 
+
     
 .special{
     font-size: 30px;
@@ -67,3 +68,11 @@ P{
     font-weight: 900;
 }
 
+.exports{
+    display: flex;
+    align-items:flex-start;
+   
+    
+    
+
+}
