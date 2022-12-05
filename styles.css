@@ -19,6 +19,7 @@ li{
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-between;
+    font-weight: bold;
  
 }
 
@@ -34,7 +35,7 @@ a:hover{
 }
 
 .push{
-    margin-left: auto;
+    margin-left: 620px;
 }
 
 P{
@@ -69,10 +70,19 @@ P{
 }
 
 .exports{
-    display: flex;
-    align-items:flex-start;
    
-    
-    
 
+    display: flex;
+    align-items: center;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+    
+    
+}
+.m{margin-bottom: 10px 15px;
+
+}
+
+.typo-caption{
+    color: antiquewhite;
 }
