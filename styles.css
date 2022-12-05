@@ -5,14 +5,13 @@ body{
 ul{
     font-family: Arial, Helvetica, sans-serif;
     color: antiquewhite;
-    font-size: 30px;
+    font-size: 40px;
     list-style-type: none;
-    padding: 50px;
    
 }
 
 li{
-    margin: 30px 10px;
+    padding: 6px 40px;
 }
 
 .container-navigation{
@@ -57,4 +56,14 @@ P{
 
 }
 
+.dropdown{
+    padding-top: 0px;
+    font-size: 25px;
+    line-height: 25px;
+
+}
+
+.bold{
+    font-weight: 900;
+}
 
