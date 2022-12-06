@@ -76,7 +76,16 @@ P{
     align-items: center;
     flex-wrap:wrap;
     justify-content: space-evenly;
-    
-    
+
+}
+
+.carp{
+   padding: 30px 80px;
+   display: flex; 
+   flex-wrap: wrap;
+     
+  
+  
+
 }
 
