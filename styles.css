@@ -55,6 +55,7 @@ P{
     line-height: 0.01;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    
 
 }
 
@@ -83,9 +84,41 @@ P{
    padding: 30px 80px;
    display: flex; 
    flex-wrap: wrap;
-     
-  
-  
+   margin: 0px;
+}
 
+.object-container{
+    display: flex;
+    align-items: left;
+  
+    
+    
+  
+}
+
+.carp-text{
+    /*font-size: 20px ;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px dashed burlywood;
+    color: antiquewhite;
+    font-size: 25px;
+    width: 900px;
+    font-weight: bold;
+    margin: 19px 0px;
+    padding: 20px 0px;*/
+
+    font-size: 25px;
+    border: 1px dashed burlywood;
+    text-align: left;
+    padding: 15px 10px;
+    
+    
+   
+
+    
+    
+
+    
 }
 
