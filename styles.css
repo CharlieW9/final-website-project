@@ -102,5 +102,38 @@ P{
     line-height: 35px;
 }
 
+.info-container{
+display:flex ;
+flex-wrap:wrap ;
+justify-content: center;
+}
 
+
+
+.info-text{
+    font-size: 20px;
+    padding: 90px 0px;
+   width: 900px;
+   height: 0px;  
+}
+
+
+.reflection-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.reflection{
+    font-weight: normal;
+    font-size: 20px;
+    padding: 10px 0px;
+    color: antiquewhite;
+    text-align:center;
+    width: 1100px;
+    height: 500px;
+   
+
+
+}
 
