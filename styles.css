@@ -44,7 +44,7 @@ P{
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     font-size: 340PX;
-    line-height: -0;
+ 
 }
 
 
@@ -90,35 +90,17 @@ P{
 .object-container{
     display: flex;
     align-items: left;
-  
-    
-    
-  
+
 }
 
 .carp-text{
-    /*font-size: 20px ;
-    align-items: center;
-    font-family: Arial, Helvetica, sans-serif;
-    border: 1px dashed burlywood;
-    color: antiquewhite;
-    font-size: 25px;
-    width: 900px;
-    font-weight: bold;
-    margin: 19px 0px;
-    padding: 20px 0px;*/
-
-    font-size: 25px;
-    border: 1px dashed burlywood;
+    font-size: 22px;
+   /* border: 1px dashed burlywood;*/
     text-align: left;
-    padding: 15px 10px;
-    
-    
-   
-
-    
-    
-
-    
+    padding: 1px 25px;
+    font-weight: normal;
+    line-height: 35px;
 }
+
+
 
